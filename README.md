@@ -6,9 +6,7 @@ R-code and data for a paper entitled:
 
 By Claire Greene, Brian Prescott, and Oz Shy
 
-Journal of Behavioral and Experimental Economics, Forthcoming.
-
-Also available at: https://papers.ssrn.com/abstract=3780348 
+Journal of Behavioral and Experimental Economics, https://doi.org/10.1016/j.socec.2021.101788 .
 
 Instructions: Place ALL files in a single folder. Then, don't forget to change the working directory WD to this folder. 
 
